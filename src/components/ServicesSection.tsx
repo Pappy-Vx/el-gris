@@ -3,7 +3,7 @@ import { Button } from "../components/ui/button";
 
 export function ServicesSection() {
   return (
-    <section className="py-16 bg-[#1d79bc]">
+    <section className="py-16 bg-[#E67817]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-white mb-4">Our Services</h2>
@@ -25,7 +25,7 @@ export function ServicesSection() {
               </p>
               <div className="text-center">
                 <Button
-                  className="bg-[#1d79bc] hover:bg-[#1565a0] text-white"
+                  className="bg-[#E67817] hover:bg-[#1565a0] text-white"
                 >
                   Read More
                 </Button>
@@ -40,14 +40,14 @@ export function ServicesSection() {
             <CardContent className="p-6">
               <h3 className="text-xl font-bold mb-4 text-center">REINSURANCE BROKING</h3>
               <p className="text-gray-300 text-sm leading-relaxed mb-6">
-                The reinsurance unit of Scib Nigeria & Co. Ltd (Scib Re) is Nigeria's leading
+                The reinsurance unit of El-gris is Nigeria's leading
                 reinsurance intermediary and service advisor. We empower our clients to better
                 understand, manage and transfer risk through innovative solutions and personalized
                 access to all forms of global reinsurance across treaty...
               </p>
               <div className="text-center">
                 <Button
-                  className="bg-[#1d79bc] hover:bg-[#1565a0] text-white"
+                  className="bg-[#E67817] hover:bg-[#1565a0] text-white"
                 >
                   Read More
                 </Button>
@@ -69,7 +69,7 @@ export function ServicesSection() {
               </p>
               <div className="text-center">
                 <Button
-                  className="bg-[#1d79bc] hover:bg-[#1565a0] text-white"
+                  className="bg-[#E67817] hover:bg-[#1565a0] text-white"
                 >
                   Read More
                 </Button>

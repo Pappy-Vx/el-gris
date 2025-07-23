@@ -9,17 +9,17 @@ export function CompanyDescription() {
           <div>
             <div className="flex items-center mb-6">
               <div className="w-16 h-16 bg-[#1d79bc] rounded-lg flex items-center justify-center mr-4">
-                <span className="text-white text-2xl font-bold">S</span>
+                <span className="text-white text-2xl font-bold">El</span>
               </div>
               <div>
-                <p className="text-[#1d79bc] text-sm font-medium mb-1">SCIB NIGERIA & CO LIMITED:</p>
+                <p className="text-[#1d79bc] text-sm font-medium mb-1">El-gris:</p>
                 <h2 className="text-3xl font-bold text-gray-900">Nigeria's Leading Insurance Broker.</h2>
               </div>
             </div>
 
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Scib is the leading Insurance and reinsurance broking firm in Nigeria. For over 4
+                El-gris is the leading Insurance and reinsurance broking firm in Nigeria. For over 4
                 decades, we have consistently differentiated ourselves from other insurance brokers in
                 Nigeria by offering unprecedented services to our clients, leveraging on our experience,
                 professionalism, and innovation.
@@ -36,7 +36,7 @@ export function CompanyDescription() {
               </p>
 
               <p>
-                Scib is a privately owned Nigerian Company with 6 offices in Nigeria. Our head office is in Surulere
+                El-gris is a privately owned Nigerian Company with 6 offices in Nigeria. Our head office is in Surulere
                 Lagos, with a head office annex in Yaba-Lagos and other offices in Kaduna, Ibadan, Port Harcourt,
                 and Abuja.
               </p>
@@ -68,7 +68,7 @@ export function CompanyDescription() {
               <AccordionItem value="mission" className="border rounded-lg">
                 <AccordionTrigger className="px-6 py-4 text-left bg-white hover:bg-gray-50 rounded-t-lg">
                   <div className="flex items-center">
-                    <div className="w-12 h-12 bg-[#365b8f] rounded-lg flex items-center justify-center mr-4">
+                    <div className="w-12 h-12 bg-[#E67817] rounded-lg flex items-center justify-center mr-4">
                       <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clipRule="evenodd" />
                       </svg>

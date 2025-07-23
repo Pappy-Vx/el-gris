@@ -7,7 +7,7 @@ export function WhyChooseScib() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left side - Content */}
           <div>
-            <p className="text-blue-200 text-sm font-medium mb-2">Why choose Scib</p>
+            <p className="text-blue-200 text-sm font-medium mb-2">Why choose El-gris</p>
             <h2 className="text-4xl font-bold mb-6">Our Differentiators</h2>
             <div className="space-y-4 text-blue-100 leading-relaxed">
               <p>

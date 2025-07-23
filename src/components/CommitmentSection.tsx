@@ -5,7 +5,7 @@ export function CommitmentSection() {
     {
       id: "professionalism",
       title: "Professionalism:",
-      content: "Scib Nigeria & Co. Ltd places emphasis on professional conduct in our value offerings. We appreciate that professionalism is not just about qualifications but in the manner of service delivery, value additions, continuous improvement and cutting edge strategies towards achieving the clients overall business objectives as per its Insurance programme. The Scib brand is synonymous with professionalism in the Nigerian Insurance market."
+      content: "El-gris places emphasis on professional conduct in our value offerings. We appreciate that professionalism is not just about qualifications but in the manner of service delivery, value additions, continuous improvement and cutting edge strategies towards achieving the clients overall business objectives as per its Insurance programme. The El-gris brand is synonymous with professionalism in the Nigerian Insurance market."
     },
     {
       id: "innovation",
@@ -15,7 +15,7 @@ export function CommitmentSection() {
     {
       id: "ethical",
       title: "High Ethical Standards:",
-      content: "This is one of the things that Scib is most noted for within the industry and it is very much appreciated by its clients, peers and other service providers. It is also one of the major factors that have attracted the affiliation of major international brokers. To reinforce our commitment to our clients and to the highest ethical standards of behavior, we require all our employees to observe the fundamentals of our business practices in avoiding conflicts of interest that relate to the offering of our services."
+      content: "This is one of the things that El-gris is most noted for within the industry and it is very much appreciated by its clients, peers and other service providers. It is also one of the major factors that have attracted the affiliation of major international brokers. To reinforce our commitment to our clients and to the highest ethical standards of behavior, we require all our employees to observe the fundamentals of our business practices in avoiding conflicts of interest that relate to the offering of our services."
     },
     {
       id: "integrity",
@@ -30,7 +30,7 @@ export function CommitmentSection() {
     {
       id: "accountability",
       title: "Accountability:",
-      content: "At Scib Nigeria & Co. Ltd, we take responsibility for our performance in all of our decisions and actions. We are committed to seeing everything through the eyes of our clients in order to provide the highest quality service because we expect nothing less than the best ourselves."
+      content: "At El-gris, we take responsibility for our performance in all of our decisions and actions. We are committed to seeing everything through the eyes of our clients in order to provide the highest quality service because we expect nothing less than the best ourselves."
     },
     {
       id: "excellence",

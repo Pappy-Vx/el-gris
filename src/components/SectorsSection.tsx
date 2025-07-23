@@ -35,9 +35,9 @@ export function SectorsSection() {
             <Link
               key={index}
               href={sector.href}
-              className="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 text-center border hover:border-[#1d79bc] group"
+              className="bg-white p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 text-center border hover:border-[#1d79bc] group overflow-hidden"
             >
-              <span className="text-sm text-gray-700 group-hover:text-[#1d79bc] font-medium">
+              <span className="text-sm text-gray-700 group-hover:text-[#1d79bc] font-medium px-2">
                 {sector.name}
               </span>
             </Link>
@@ -46,7 +46,7 @@ export function SectorsSection() {
 
         <div className="text-center">
           <Button
-            className="bg-[#1d79bc] hover:bg-[#1565a0] text-white px-8 py-3"
+            className="bg-[#E67817] hover:bg-[#E67817] text-white px-8 py-3"
           >
             View All
           </Button>

@@ -34,7 +34,7 @@ export function Footer() {
                 <h3 className="text-lg font-semibold mb-2">Contact</h3>
                 <p className="text-sm">
                   Phone: (01) 2710030-4<br />
-                  Mobile: (234) 808 5852 816
+                  Mobile: (234) 802 223 8063
                 </p>
               </div>
             </div>
@@ -50,7 +50,7 @@ export function Footer() {
               <div>
                 <h3 className="text-lg font-semibold mb-2">Email</h3>
                 <p className="text-sm">
-                  scib@scibng.com
+                  info@elgring.com
                 </p>
               </div>
             </div>
@@ -65,8 +65,8 @@ export function Footer() {
             {/* Company Info */}
             <div className="lg:col-span-1">
               <img
-                src="https://ext.same-assets.com/4264941402/1235433568.png"
-                alt="Scib Nigeria Footer Logo"
+                src="/logo.png"
+                alt="El-gris Footer Logo"
                 className="h-12 mb-4"
               />
               <p className="text-gray-400 text-sm leading-relaxed mb-4">
@@ -97,10 +97,10 @@ export function Footer() {
                     Consultancy Services
                   </Link>
                   <Link href="#" className="block text-gray-400 hover:text-white transition-colors text-sm">
-                    About Scib
+                    About El-gris
                   </Link>
                   <Link href="#" className="block text-gray-400 hover:text-white transition-colors text-sm">
-                    Why Scib
+                    Why El-gris
                   </Link>
                   <Link href="#" className="block text-gray-400 hover:text-white transition-colors text-sm">
                     Industries
@@ -111,7 +111,7 @@ export function Footer() {
                 </div>
                 <div className="space-y-3">
                   <Link href="#" className="block text-gray-400 hover:text-white transition-colors text-sm">
-                    Scib Publication
+                    El-gris Publication
                   </Link>
                   <Link href="#" className="block text-gray-400 hover:text-white transition-colors text-sm">
                     Global Reach
@@ -132,14 +132,14 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
             <p>
               Copyright 2016-2025.
-              <Link href="https://www.scibng.com/" className="text-[#1d79bc] hover:underline ml-1">
-                Scib Nigeria
+              <Link href="https://kolapo.vercel.app/" className="text-[#E67817] hover:underline ml-1">
+                El-gris
               </Link> | Insurance Brokers. All Rights Reserved.
             </p>
             <div className="flex space-x-4 mt-4 md:mt-0">
               <Link href="#" className="hover:text-white transition-colors">Legal</Link>
               <Link href="#" className="hover:text-white transition-colors">Privacy Notice</Link>
-              <span>Powered by: PhiLateral</span>
+              <span>Powered by: Kolawole Kolapo</span>
             </div>
           </div>
         </div>

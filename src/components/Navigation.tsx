@@ -32,8 +32,8 @@ export function Navigation() {
             {/* Logo */}
             <Link href="/" className="flex items-center">
               <img
-                src="https://ext.same-assets.com/4264941402/4000622276.png"
-                alt="Scib Nigeria Logo"
+                src="/logo.png"
+                alt="El-gris Logo"
                 className="h-12 w-auto"
               />
             </Link>

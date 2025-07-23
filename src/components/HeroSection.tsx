@@ -29,7 +29,7 @@ export function HeroSection() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button
-            className="bg-[#1d79bc] hover:bg-[#1565a0] text-white px-8 py-3 text-lg rounded-none"
+            className="bg-[#E67817] hover:bg-[#1565a0] text-white px-8 py-3 text-lg rounded-none"
           >
             About Us
           </Button>
